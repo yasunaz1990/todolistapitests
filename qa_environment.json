@@ -1,0 +1,44 @@
+{
+	"id": "14492453-18c2-4440-8e76-9e27f4b85399",
+	"name": "TO-DO QA",
+	"values": [
+		{
+			"key": "baseURL",
+			"value": "https://api-nodejs-todolist.herokuapp.com",
+			"enabled": true
+		},
+		{
+			"key": "userEmail",
+			"value": "jessyca_emard@gmail.com",
+			"enabled": true
+		},
+		{
+			"key": "userPass",
+			"value": "passwrod1!",
+			"enabled": true
+		},
+		{
+			"key": "userSessionToken",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "userRegistrationToken",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "userId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "taskID",
+			"value": "",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2020-09-01T01:26:22.545Z",
+	"_postman_exported_using": "Postman/7.31.1"
+}
